@@ -1,0 +1,5 @@
+language: playwright-go
+fprocess: ./handler
+welcome_message: |
+  This is based upon:
+  https://github.com/openfaas/golang-http-template
